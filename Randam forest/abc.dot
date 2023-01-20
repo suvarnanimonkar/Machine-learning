@@ -1,0 +1,7 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+graph [ranksep=equally, splines=polyline] ;
+edge [fontname="helvetica"] ;
+0 [label="gini = 0.492\nsamples = 215\nvalue = [147, 189]\nclass = No", fillcolor="#d3e9f9"] ;
+{rank=same ; 0} ;
+}
